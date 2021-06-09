@@ -71,17 +71,15 @@ You can find all the below listed Applications on my [*Github*](https://github.c
 
 **Time:** tells you the current time
 
-**SpeedTest:** Okala SpeedTest in your Terminal
-
 **Joke:** Tells a joke using the pyjoke module
 
 **Qr-Code Generator:** A simple script to generate a Qr-Code
 
 **Timer:** A simple gui for setting a Timer
 
-**Url-Shortener:** A Simple url shorterner using [git.io](https://git.io)
+**Url-Shortener:** A Simple url shorterner using [tinyurl](https://tinyurl.com)
 
-**NSPlayer:** A simple Music Player written in python
+**Player:** A simple Music Player written in python
 
 **News:** Get the latest headlines from Google News
 
@@ -148,6 +146,8 @@ Noob.py **loses it's functionality** without these Modules
 **SSl:** For Password generator
 
 **Random:** Randomize something in python
+
+**pyttsx3** For speaking
 
 ### Just Paste the below command in your terminal
 
